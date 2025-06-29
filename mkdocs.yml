@@ -1,10 +1,10 @@
 site_name: Trustworthy Machine Learning
-site_url: https://trustworthyml-ai.github.io/trustworthyml-ai/
+site_url: https://trustworthyml-ai.github.io/
 site_author: Trustworthy ML
 site_description: A comprehensive resource for Trustworthy Machine Learning - course materials, research papers, and community resources
 
-repo_name: trustworthyml-ai/trustworthyml-ai
-repo_url: https://github.com/trustworthyml-ai/trustworthyml-ai
+repo_name: trustworthyml-ai/trustworthyml-ai.github.io
+repo_url: https://github.com/trustworthyml-ai/trustworthyml-ai.github.io
 
 theme:
   name: material
