@@ -1,0 +1,84 @@
+site_name: Trustworthy Machine Learning
+site_url: https://trustworthyml-ai.github.io/trustworthyml-ai/
+site_author: Trustworthy ML
+site_description: A comprehensive resource for Trustworthy Machine Learning - course materials, research papers, and community resources
+
+repo_name: trustworthyml-ai/trustworthyml-ai
+repo_url: https://github.com/trustworthyml-ai/trustworthyml-ai
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Course:
+    - Syllabus: course/syllabus.md
+    - Schedule: course/schedule.md
+    - Assignments: course/assignments.md
+    - Projects: course/projects.md
+  - Resources:
+    - Tools & Frameworks: resources/tools.md
+    - Datasets: resources/datasets.md
+    - Tutorials: resources/tutorials.md
+  - Research:
+    - Paper Library: research/papers.md
+    - Key Topics: research/topics.md
+    - Recent Advances: research/recent.md
+  - Community:
+    - Discussion: community/discussion.md
+    - Events: community/events.md
+    - Contributing: community/contributing.md
+  - Blog: blog/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/trustworthyml-ai
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/trustworthyml_ai
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX # Replace with your Google Analytics ID
