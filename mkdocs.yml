@@ -66,11 +66,8 @@ nav:
   - Resources:
     - Tools & Frameworks: resources/tools.md
     - Datasets: resources/datasets.md
-    - Tutorials: resources/tutorials.md
   - Research:
     - Paper Library: research/papers.md
-    - Key Topics: research/topics.md
-    - Recent Advances: research/recent.md
   - Blog: blog/index.md
 
 extra:

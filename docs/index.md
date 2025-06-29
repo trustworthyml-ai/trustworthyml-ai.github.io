@@ -29,13 +29,10 @@ Our comprehensive course covers the fundamental concepts, state-of-the-art techn
 
 === "Researchers"
     - [Paper Library](research/papers.md)
-    - [Key Topics](research/topics.md)
-    - [Recent Advances](research/recent.md)
 
 === "Practitioners"
     - [Tools & Frameworks](resources/tools.md)
     - [Datasets](resources/datasets.md)
-    - [Tutorials](resources/tutorials.md)
 
 ## Featured Topics
 
