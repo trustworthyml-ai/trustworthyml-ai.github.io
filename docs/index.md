@@ -16,8 +16,8 @@ Trustworthy Machine Learning encompasses the principles and practices needed to 
 
 Our comprehensive course covers the fundamental concepts, state-of-the-art techniques, and practical implementations of trustworthy ML systems. Whether you're a student, researcher, or practitioner, you'll find valuable resources here.
 
-!!! info "Fall 2024 Course"
-    The Trustworthy ML course is being offered in Fall 2024. Check out the [syllabus](course/syllabus.md) for detailed information about topics, schedule, and assignments.
+!!! info "Fall 2025 Course"
+    The Trustworthy ML course is being offered in Fall 2025 at UCLA Extension. Check out the [syllabus](course/syllabus.md) for detailed information about topics, schedule, and assignments, or [enroll directly](https://www.uclaextension.edu/computer-science/machine-learning-ai/course/trustworthy-machine-learning-com-sci-x-45044#:~:text=This%20course%20provides%20a%20comprehensive,theoretical%20understanding%20and%20practical%20implementation%E2%80%A6).
 
 ## Quick Navigation
 
@@ -47,13 +47,11 @@ Our comprehensive course covers the fundamental concepts, state-of-the-art techn
 
 ## Stay Connected
 
-Join our growing community of researchers, practitioners, and students working on trustworthy AI:
+Connect with the trustworthy ML community:
 
 - 🐙 [GitHub Organization](https://github.com/trustworthyml-ai)
 - 🐦 [Twitter Updates](https://twitter.com/trustworthyml_ai)
-- 💬 [Community Discussions](community/discussion.md)
-- 📅 [Upcoming Events](community/events.md)
 
 ---
 
-*This resource is continuously updated with the latest research, tools, and community contributions. [Contribute](community/contributing.md) to help us build the most comprehensive TML resource on the web.*
+*This resource is continuously updated with the latest research, tools, and community contributions.*

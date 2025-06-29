@@ -8,6 +8,9 @@ repo_url: https://github.com/trustworthyml-ai/trustworthyml-ai
 
 theme:
   name: material
+  font:
+    text: "Source Sans Pro"
+    code: "Source Code Pro"
   palette:
     - scheme: default
       primary: blue
@@ -54,6 +57,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - About: about.md
   - Course:
     - Syllabus: course/syllabus.md
     - Schedule: course/schedule.md
@@ -67,10 +71,6 @@ nav:
     - Paper Library: research/papers.md
     - Key Topics: research/topics.md
     - Recent Advances: research/recent.md
-  - Community:
-    - Discussion: community/discussion.md
-    - Events: community/events.md
-    - Contributing: community/contributing.md
   - Blog: blog/index.md
 
 extra:

@@ -3,7 +3,11 @@
 ## Course Information
 
 **Course Title**: Trustworthy Machine Learning  
-**Semester**: Fall 2024  
+**Institution**: UCLA Extension  
+**Semester**: Fall 2025  
+**Format**: Online Only  
+**Duration**: 11 weeks  
+**Course Link**: [COM SCI X 450.44](https://www.uclaextension.edu/computer-science/machine-learning-ai/course/trustworthy-machine-learning-com-sci-x-45044#:~:text=This%20course%20provides%20a%20comprehensive,theoretical%20understanding%20and%20practical%20implementation%E2%80%A6)  
 **Prerequisites**: Machine Learning fundamentals, Linear Algebra, Statistics, Python programming  
 **Credits**: 3  
 
@@ -23,70 +27,22 @@ By the end of this course, students will be able to:
 
 ## Course Topics
 
-### Module 1: Foundations (Weeks 1-3)
-- Introduction to Trustworthy ML
-- Ethics in AI and ML
-- Legal and regulatory landscape
-- Case studies of ML failures
+| Week | Topic |
+|------|-------|
+| 1 | Introduction to Trustworthy ML |
+| 2 | Model Evaluation and Fairness |
+| 3 | Midterm Project |
+| 4 | Privacy Enhancing Technologies I |
+| 5 | Privacy-Enhancing Technologies II & Federated Learning |
+| 6 | Gen AI Security Models and Frameworks |
+| 7 | Safety, Alignment, and Evaluation in LLMs |
+| 8 | Advanced LLM Safety |
+| 9 | Security Testing and Red Teaming |
+| 10 | AI Regulatory Frameworks and Compliance |
+| 11 | Final Project |
 
-### Module 2: Fairness & Bias (Weeks 4-6)
-- Types of bias in ML systems
-- Fairness definitions and metrics
-- Pre-processing, in-processing, and post-processing techniques
-- Intersectionality and group fairness
-
-### Module 3: Robustness & Security (Weeks 7-9)
-- Adversarial examples and attacks
-- Certified defenses and robust training
-- Distribution shift and domain adaptation
-- Model stealing and membership inference attacks
-
-### Module 4: Interpretability & Explainability (Weeks 10-11)
-- Global vs. local interpretability
-- Feature importance and attribution methods
-- Counterfactual explanations
-- Human-AI interaction and explanation quality
-
-### Module 5: Privacy-Preserving ML (Weeks 12-13)
-- Differential privacy fundamentals
-- Federated learning
-- Secure multi-party computation
-- Privacy attacks and defenses
-
-### Module 6: AI Safety & Alignment (Weeks 14-15)
-- AI alignment problem
-- Value learning and reward modeling
-- Safety verification and testing
-- Deployment considerations and monitoring
-
-## Assessment
-
-| Component | Weight | Description |
-|-----------|--------|-------------|
-| **Assignments (4)** | 40% | Individual coding and written assignments |
-| **Midterm Exam** | 20% | In-class examination on Modules 1-3 |
-| **Final Project** | 30% | Team-based research project with presentation |
-| **Participation** | 10% | Class discussion, paper reviews, peer feedback |
-
-### Assignment Schedule
-- **Assignment 1**: Bias Detection and Mitigation (Week 5)
-- **Assignment 2**: Adversarial Robustness (Week 8)  
-- **Assignment 3**: Model Interpretability (Week 11)
-- **Assignment 4**: Privacy-Preserving Techniques (Week 13)
-
-### Final Project
-Teams of 3-4 students will work on an original research project addressing a trustworthy ML challenge. Projects must include:
-- Literature review and problem formulation
-- Technical approach and implementation
-- Experimental evaluation
-- Written report (8-10 pages)
-- Final presentation (15 minutes)
 
 ## Required Resources
-
-### Textbooks
-- *Fairness and Machine Learning* by Barocas, Hardt, and Narayanan (free online)
-- *Interpretable Machine Learning* by Christoph Molnar (free online)
 
 ### Software & Tools
 - Python 3.8+ with scikit-learn, PyTorch/TensorFlow
@@ -96,29 +52,7 @@ Teams of 3-4 students will work on an original research project addressing a tru
 
 ### Computing Resources
 - Google Colab Pro or similar cloud platform
-- Course cluster access for larger experiments
 
-## Policies
-
-### Late Policy
-- 10% penalty per day late
-- Extensions granted for documented emergencies
-- No late submissions accepted for final project
-
-### Academic Integrity
-All work must be original. Collaboration is encouraged on projects but must be clearly documented. Use of AI tools (ChatGPT, Copilot) must be disclosed and appropriately credited.
-
-### Accessibility
-Students with documented disabilities should contact the Office of Disability Services to arrange reasonable accommodations.
-
-## Important Dates
-
-- **Week 3**: Assignment 1 released
-- **Week 6**: Midterm exam
-- **Week 8**: Project proposal due
-- **Week 12**: Project progress report
-- **Week 15**: Final presentations
-- **Finals Week**: Final project reports due
 
 ---
 

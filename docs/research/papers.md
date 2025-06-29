@@ -177,6 +177,6 @@ Core papers from each topic area marked with ⭐ in the full bibliography.
 ---
 
 !!! note "Contributing"
-    Found an important paper we missed? [Submit a suggestion](https://github.com/trustworthyml-ai/trustworthyml-ai/issues) or [contribute directly](../community/contributing.md) to help keep this library comprehensive and current.
+    Found an important paper we missed? [Submit a suggestion](https://github.com/trustworthyml-ai/trustworthyml-ai/issues) to help keep this library comprehensive and current.
 
 *Last updated: {{ git_revision_date }}*
