@@ -147,7 +147,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/trustworthyml-ai/trustworthyml-ai/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/trustworthyml-ai/trustworthyml-ai/discussions)
-- **Email**: [contact@trustworthyml.ai](mailto:contact@trustworthyml.ai)
 
 ---
 
