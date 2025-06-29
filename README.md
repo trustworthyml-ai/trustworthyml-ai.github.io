@@ -5,7 +5,7 @@
 
 > A comprehensive resource hub for **Trustworthy Machine Learning** - course materials, research papers, tools, and community resources.
 
-🌐 **Live Site**: [https://trustworthyml-ai.github.io/trustworthyml-ai/](https://trustworthyml-ai.github.io/trustworthyml-ai/)
+🌐 **Live Site**: [https://trustworthyml-ai.github.io/](https://trustworthyml-ai.github.io/)
 
 ## About
 
