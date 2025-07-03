@@ -102,18 +102,43 @@ Prashant's work has contributed to:
 - **Research Publications** on trustworthy AI and security
 - **Training Programs** for AI practitioners and security professionals
 
+## Public Talks & Presentations
+
+Prashant regularly shares his expertise through speaking engagements at conferences, workshops, and industry events:
+
+### **Featured Presentations**
+
+**[Federated Learning in Production: Security & Privacy Challenges](https://www.youtube.com/watch?v=DoklGCdtrrc)**  
+*Flower AI Summit* | 2025  
+Deep dive into security and privacy considerations when deploying federated learning systems at scale on Google Cloud. Prashant demonstrates how to fine tune Gemma 3 using Flower on GKE.
+
+**[Agentic AI Security](https://speakerdeck.com/pkulkarni12/agentic-ai-security)**  
+*UCLAx Open* | 2025  
+Comprehensive overview of security challenges in agentic AI systems, covering threat models, attack vectors, and defense strategies for autonomous AI agents. Explores the unique security considerations when AI systems can take actions in the real world.
+
+### **Speaking Topics**
+- **AI Security & Safety**: Securing large language models and generative AI systems
+- **Trustworthy ML in Enterprise**: Practical implementation strategies
+- **Adversarial Defense**: Real-world robustness challenges and solutions
+- **Privacy-Preserving AI**: Differential privacy and federated learning
+- **Regulatory Compliance**: Navigating AI governance frameworks
+
+### **Upcoming Engagements**
+- Check back for upcoming speaking opportunities and conference presentations
+
+*For speaking requests and availability, please contact through professional channels.*
+
 ## Connect & Learn More
 
 ### Professional Profiles
 - **LinkedIn**: [Connect with Prashant](https://www.linkedin.com/in/prashantkulkarni2) for professional updates and insights
 - **Google Scholar**: [Follow research publications](https://scholar.google.com/citations?user=NSJrnFwAAAAJ&hl=en&oi=sra)
-- **GitHub**: Explore open-source contributions to trustworthy AI tools
+- **GitHub**: [View code and projects](https://github.com/prashantkul) - Open-source contributions and AI security implementations
 
 ### Speaking & Consulting
 Prashant is available for:
 - Conference presentations on AI security and trustworthy ML
-- Corporate training workshops
-- Consulting on AI security strategy and implementation
+- Possible research collaboration
 - Guest lectures at academic institutions
 
 ### Course Information
@@ -123,7 +148,7 @@ Interested in learning from Prashant?
 
 - **Format**: Online only
 - **Duration**: 11-week intensive course
-- **Prerequisites**: Basic ML knowledge, Python programming
+- **Prerequisites**: Foundational Staticstics, Calculus, Linear Algebra , ML knowledge (Deterministic and Neural networks), Python programming
 - **Certification**: UCLA Extension certificate upon completion
 
 ---
@@ -143,8 +168,9 @@ Prashant's research contributions span cybersecurity, AI safety, and trustworthy
 !!! info "Google Scholar Profile"
     For a complete list of publications and citation metrics, visit [Prashant's Google Scholar profile](https://scholar.google.com/citations?user=NSJrnFwAAAAJ&hl=en&oi=sra).
 
-**Recent Research Focus:**
+### Recent Research Focus:
 - Security frameworks for enterprise AI deployments
+- Security of Large Language Models and Agentic AI
 - Practical implementations of differential privacy
 - Adversarial robustness in production ML systems
 - Bias detection and mitigation at scale
